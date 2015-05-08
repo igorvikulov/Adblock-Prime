@@ -24,20 +24,20 @@ Adblock Prime's main goal is to help users neutralize privacy-invading apparatus
 
 ### Installation:
 
-* **Safari:** available to install from the homepage, or from the Safari Extension Gallery.
+* **Safari:** available to install [from the homepage](), or from the [Safari Extension Gallery]().
 
-Chrome: available on the Chrome Web Store or for manual installation.
+* **Chrome:** available on the [Chrome Web Store]() or for [manual]() installation.
 
-Firefox: available on the Firefox Add-ons homepage, or for manual installation.
+* **Firefox:** available on the [Firefox Add-ons homepage](), or for [manual]() installation.
 
 Due to Mozilla's review process, the version of Adblock Prime available from the Add-ons homepage is currently often outdated. This isn't in our control.
-Opera: Opera shares Chrome's underlying engine, so you can install Adblock Prime simply by grabbing the latest release for Chrome.
+* **Opera:** Opera shares Chrome's underlying engine, so you can install Adblock Prime simply by grabbing the [latest release for Chrome]().
 
 ## Performance
 
 ### Memory
 
-On average, Adblock Prime really does make your browser run leaner. [1]
+On average, Adblock Prime **really** does make your browser run leaner. [1]
 
 Chromium [2]
 
