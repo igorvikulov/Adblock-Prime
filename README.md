@@ -24,7 +24,7 @@ Adblock Prime's main goal is to help users neutralize privacy-invading apparatus
 
 ### Installation:
 
-** * Safari:** available to install from the homepage, or from the Safari Extension Gallery.
+* ** Safari:** available to install from the homepage, or from the Safari Extension Gallery.
 
 Chrome: available on the Chrome Web Store or for manual installation.
 
