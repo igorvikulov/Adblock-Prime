@@ -48,21 +48,21 @@ Firefox
 Safari
 
 
-[1] Details of the benchmark available at Firefox version: benchmarking memory footprint.
+[1] Details of the benchmark available at [Firefox version: benchmarking memory footprint]().
 
-[2] Important note: There is currently a bug in Chromium 39+ which causes a new memory leak each time the popup UI of an extension is opened. This affects all extensions. Keep this in mind when measuring Chromium's memory usage. In the benchmarks, I avoided opening the popups completely.
+[2] Important note: There is currently a [bug in Chromium 39+ which causes a new memory leak each time the popup UI of an extension is opened](https://code.google.com/p/chromium/issues/detail?id=441500). This affects all extensions. Keep this in mind when measuring Chromium's memory usage. In the benchmarks, I avoided opening the popups completely.
 
 ### CPU
 
 Adblock Prime is also easy on the CPU
 
-Details of the benchmark available in this LibreOffice spreadsheet.
+Details of the benchmark available in [this LibreOffice spreadsheet]().
 
 ### Blocking
 
 Being lean and efficient doesn't mean blocking less
 
-For details of benchmark, see Adblock Prime and others: Blocking ads, trackers, malwares.
+For details of benchmark, see [Adblock Prime and others: Blocking ads, trackers, malwares]().
 
 ### Quick tests
 
