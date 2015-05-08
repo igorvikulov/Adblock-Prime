@@ -12,19 +12,19 @@ Adblock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 
 Adblock Prime is a general-purpose blocker — not an ad blocker specifically.
 
-Adblock Prime blocks ads through its support of the [Adblock Plus filter syntax](https://adblockplus.org/en/filters). Adblock Prime extends the syntax and is designed to work with custom rules and filters.
+Adblock Prime blocks ads through its support of the [Adblock Plus filter syntax](https://adblockplus.org/en/filters). Adblock Prime [extends](https://github.com/chrisaljoudi/uBlock/wiki/Filter-syntax-extensions) the syntax and is designed to work with custom rules and filters.
 
 Adblock Prime's main goal is to help users neutralize privacy-invading apparatus — ads being one example.
 
-Feel free to read about Adblock Prime's development philosophy.
+[Feel free to read about Adblock Prime's development philosophy.]()
 
 ## Getting started
 
-Quick guide for basic usage.
+[Quick guide for basic usage.]()
 
 ### Installation:
 
-Safari: available to install from the homepage, or from the Safari Extension Gallery.
+** * Safari:** available to install from the homepage, or from the Safari Extension Gallery.
 
 Chrome: available on the Chrome Web Store or for manual installation.
 
