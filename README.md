@@ -1,7 +1,7 @@
 # Adblock-Prime
 Adblock: a fast, lightweight, and lean blocker for Chrome, Firefox, and Safari.
 
-* [What is Adblock Prime?]()
+* [What is Adblock Prime?](https://github.com/igorvikulov/Adblock-Prime/blob/master/README.md#what-is-adblock-prime)
 * [Getting Started & Installation]
 * [Performance & Benchmarks]
 * [Release History]
