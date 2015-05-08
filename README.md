@@ -8,7 +8,7 @@ Release History
 Tips
 Wiki
 
-# What is Adblock Prime?
+## What is Adblock Prime?
 
 Adblock Prime is a general-purpose blocker — not an ad blocker specifically.
 
@@ -18,11 +18,11 @@ Adblock Prime's main goal is to help users neutralize privacy-invading apparatus
 
 Feel free to read about Adblock Prime's development philosophy.
 
-# Getting started
+## Getting started
 
 Quick guide for basic usage.
 
-Installation:
+### Installation:
 
 Safari: available to install from the homepage, or from the Safari Extension Gallery.
 
