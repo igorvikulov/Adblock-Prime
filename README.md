@@ -12,7 +12,7 @@ Wiki
 
 Adblock Prime is a general-purpose blocker — not an ad blocker specifically.
 
-Adblock Prime blocks ads through its support of the Adblock Plus filter syntax. Adblock Prime extends the syntax and is designed to work with custom rules and filters.
+Adblock Prime blocks ads through its support of the [[Adblock Plus filter syntax]]. Adblock Prime extends the syntax and is designed to work with custom rules and filters.
 
 Adblock Prime's main goal is to help users neutralize privacy-invading apparatus — ads being one example.
 
