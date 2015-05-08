@@ -33,9 +33,9 @@ Firefox: available on the Firefox Add-ons homepage, or for manual installation.
 Due to Mozilla's review process, the version of Adblock Prime available from the Add-ons homepage is currently often outdated. This isn't in our control.
 Opera: Opera shares Chrome's underlying engine, so you can install Adblock Prime simply by grabbing the latest release for Chrome.
 
-Performance
+## Performance
 
-Memory
+### Memory
 
 On average, Adblock Prime really does make your browser run leaner. [1]
 
@@ -52,28 +52,29 @@ Safari
 
 [2] Important note: There is currently a bug in Chromium 39+ which causes a new memory leak each time the popup UI of an extension is opened. This affects all extensions. Keep this in mind when measuring Chromium's memory usage. In the benchmarks, I avoided opening the popups completely.
 
-CPU
+### CPU
 
 Adblock Prime is also easy on the CPU
 
 Details of the benchmark available in this LibreOffice spreadsheet.
 
-Blocking
+### Blocking
 
 Being lean and efficient doesn't mean blocking less
 
 For details of benchmark, see Adblock Prime and others: Blocking ads, trackers, malwares.
 
-Quick tests
+### Quick tests
 
 Index
 Web page components
 Popups
-Release History
+
+## Release History
 
 See the releases pages for a history of releases and highlights for each release.
 
-Tips
+## Tips
 
 To benefit from Adblock Prime's higher efficiency, it's advised that you don't use other inefficient blockers at the same time (such as AdBlock or Adblock Plus). Adblock Prime will do as well or better than most popular ad blockers.
 
@@ -85,7 +86,7 @@ Once you install Adblock Prime, you can easily un-select any of the pre-selected
 
 Feel free to read about the extension's required permissions.
 
-About
+## About
 
 Adblock Prime's manifesto.
 
@@ -95,6 +96,6 @@ If Adblock Prime is useful to you, donations to support development are much app
 
 Adblock Prime is made useful because of the filter lists it utilizes. We deeply appreciate the people working hard to maintain the filter lists we're using, which were made available to use by all for free.
 
-License
+## License
 
 GPLv3.
