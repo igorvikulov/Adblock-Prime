@@ -66,36 +66,36 @@ For details of benchmark, see [Adblock Prime and others: Blocking ads, trackers,
 
 ### Quick tests
 
-Index
-Web page components
-Popups
+* [Index]()
+* [Web page components]()
+* [Popups]()
 
 ## Release History
 
-See the releases pages for a history of releases and highlights for each release.
+See the [releases pages]() for a history of releases and highlights for each release.
 
 ## Tips
 
-To benefit from Adblock Prime's higher efficiency, it's advised that you don't use other inefficient blockers at the same time (such as AdBlock or Adblock Plus). Adblock Prime will do as well or better than most popular ad blockers.
+* **To benefit from Adblock Prime's higher efficiency**, it's advised that you don't use other inefficient blockers at the same time (such as AdBlock or Adblock Plus). Adblock Prime will do [as well or better](https://github.com/igorvikulov/Adblock-Prime/blob/master/README.md#blocking) than most popular ad blockers.
 
-It's important to note that blocking ads is not theft. Don't fall for this creepy idea. The ultimate logical consequence of blocking = theft is the criminalisation of the inalienable right to privacy.
+* It's important to note that blocking ads [is *not* theft](https://twitter.com/LeaVerou/status/518154828166725632). Don't fall for this creepy idea. The *ultimate* logical consequence of blocking = theft is the criminalisation of the inalienable right to privacy.
 
-EasyList, Peter Lowe's Adservers, EasyPrivacy and Malware domains are enabled by default when you install Adblock Prime. Many more lists are readily available to block trackers, analytics, and more. Hosts files are also supported.
+* *EasyList, Peter Lowe's Adservers, EasyPrivacy* and *Malware domains* are enabled by default when you install Adblock Prime. Many more lists are readily available to block trackers, analytics, and more. Hosts files are also supported.
 
-Once you install Adblock Prime, you can easily un-select any of the pre-selected filter lists if you think Adblock Prime blocks too much. For reference, Adblock Plus installs with only EasyList enabled by default.
+* Once you install Adblock Prime, you can easily un-select any of the pre-selected filter lists if you think Adblock Prime blocks too much. For reference, Adblock Plus installs with only *EasyList* enabled by default.
 
-Feel free to read about the extension's required permissions.
+* Feel free to read [about the extension's required permissions]().
 
 ## About
 
-Adblock Prime's manifesto.
+[Adblock Prime's manifesto]().
 
 Free. Open source. For users by users.
 
-If Adblock Prime is useful to you, donations to support development are much appreciated.
+If Adblock Prime is useful to you, [donations to support development are much appreciated]().
 
 Adblock Prime is made useful because of the filter lists it utilizes. We deeply appreciate the people working hard to maintain the filter lists we're using, which were made available to use by all for free.
 
 ## License
 
-GPLv3.
+[GPLv3]().
